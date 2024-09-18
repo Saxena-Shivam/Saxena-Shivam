@@ -1,41 +1,40 @@
+<!-- Intro section with background -->
+<div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
+
 # Hey! I am SHIVAM SAXENA 👋
 
 ### 🌐 Web Developer | Member of Webnd at IIT Bhubaneswar 
 
 <img src="https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362" alt="IIT Bhubaneswar" width="100%">
 
----
-
-<div style="background-color:#f0f0f0; padding:15px;">
-  
-## About Me
-
-Hello! 👋 I’m a passionate and curious programmer who believes that continuous learning is the key to success. Over the years, I’ve developed a deep interest in solving complex problems, particularly in areas like competitive programming, web development, and emerging technologies like blockchain.
-
-I enjoy turning ideas into real-world projects, whether that’s building sleek and functional web applications or finding optimal solutions to intricate coding challenges. My focus is on writing clean, efficient code while constantly expanding my knowledge of new technologies and best practices.
-
 </div>
 
 ---
 
-<div style="background-color:#e6f7ff; padding:15px;">
+## About Me
+
+<div style="background-color:#e6f7ff; padding: 15px; border-radius: 10px;">
+Hello! 👋 I’m a passionate and curious programmer who believes that continuous learning is the key to success. Over the years, I’ve developed a deep interest in solving complex problems, particularly in areas like competitive programming, web development, and emerging technologies like blockchain.
+
+I enjoy turning ideas into real-world projects, whether that’s building sleek and functional web applications or finding optimal solutions to intricate coding challenges. My focus is on writing clean, efficient code while constantly expanding my knowledge of new technologies and best practices.
+</div>
+
+---
 
 ## 🚀 My Development Journey
 
+<div style="background-color:#fdf4e3; padding: 15px; border-radius: 10px;">
 - 📚 I started with **C** and **C++**, and soon realized my love for algorithms and data structures.
-- 🌐 Web development became my next big passion, where I dove into **JavaScript**, backend technologies like **Node.js**, and creating responsive, user-friendly websites using frameworks like **Bootstrap** and **Express.js**.
-- 🚀 More recently, I've been exploring the world of **blockchain** and how decentralization can reshape industries.
-- 🤝 I'm a big fan of **open-source collaboration** and frequently contribute to projects on GitHub.
-
-I believe in the power of coding to create innovative solutions and leave a positive impact on the world. Whether it's through competitive programming, personal projects, or team collaboration, I’m always looking for new challenges to push my limits.
-
+- 🌐 Web development became my next big passion, diving into **JavaScript**, backend tech like **Node.js**, and crafting responsive, user-friendly websites using **Bootstrap** and **Express.js**.
+- 🚀 Recently, I’ve been exploring the world of **blockchain** and how decentralization can reshape industries.
+- 🤝 Big fan of **open-source collaboration**; always contributing to projects on GitHub.
 </div>
 
 ---
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_the_shivam_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_the_shivam_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-saxena-aa8754289)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shivam562006)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%235A5A5A.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shivamsaxena562006)
@@ -45,16 +44,14 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 ---
 
-<div style="background-color:#f2f2f2; padding:15px;">
-
 ## 📈 Competitive Programming Achievements
 
+<div style="background-color:#f7f7f7; padding: 10px; border-left: 5px solid #ffa500;">
 | Platform        | Rating |
 |-----------------|--------|
 | **LeetCode**    | 1535   |
 | **CodeChef**    | ⭐⭐ (1477) |
 | **Codeforces**  | 970    |
-
 </div>
 
 ---
@@ -82,8 +79,6 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 ---
 
-<div style="background-color:#e6e6ff; padding:15px;">
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -93,12 +88,8 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 </div>
 
-</div>
-
 ---
 
 ## 🏆 Achievements
+
 - Member of Webnd, **IIT Bhubaneswar**
-
----
-
