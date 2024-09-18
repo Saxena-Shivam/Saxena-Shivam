@@ -6,21 +6,30 @@
 
 ---
 
+<div style="background-color:#f0f0f0; padding:15px;">
+  
 ## About Me
 
 Hello! 👋 I’m a passionate and curious programmer who believes that continuous learning is the key to success. Over the years, I’ve developed a deep interest in solving complex problems, particularly in areas like competitive programming, web development, and emerging technologies like blockchain.
 
 I enjoy turning ideas into real-world projects, whether that’s building sleek and functional web applications or finding optimal solutions to intricate coding challenges. My focus is on writing clean, efficient code while constantly expanding my knowledge of new technologies and best practices.
 
+</div>
+
 ---
 
+<div style="background-color:#e6f7ff; padding:15px;">
+
 ## 🚀 My Development Journey
+
 - 📚 I started with **C** and **C++**, and soon realized my love for algorithms and data structures.
 - 🌐 Web development became my next big passion, where I dove into **JavaScript**, backend technologies like **Node.js**, and creating responsive, user-friendly websites using frameworks like **Bootstrap** and **Express.js**.
 - 🚀 More recently, I've been exploring the world of **blockchain** and how decentralization can reshape industries.
 - 🤝 I'm a big fan of **open-source collaboration** and frequently contribute to projects on GitHub.
 
 I believe in the power of coding to create innovative solutions and leave a positive impact on the world. Whether it's through competitive programming, personal projects, or team collaboration, I’m always looking for new challenges to push my limits.
+
+</div>
 
 ---
 
@@ -36,6 +45,8 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 ---
 
+<div style="background-color:#f2f2f2; padding:15px;">
+
 ## 📈 Competitive Programming Achievements
 
 | Platform        | Rating |
@@ -43,6 +54,8 @@ I believe in the power of coding to create innovative solutions and leave a posi
 | **LeetCode**    | 1535   |
 | **CodeChef**    | ⭐⭐ (1477) |
 | **Codeforces**  | 970    |
+
+</div>
 
 ---
 
@@ -69,12 +82,16 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 ---
 
+<div style="background-color:#e6e6ff; padding:15px;">
+
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&theme=dark)
+
+</div>
 
 </div>
 
