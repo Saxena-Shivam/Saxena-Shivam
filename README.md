@@ -1,6 +1,7 @@
 # Hey! I am SHIVAM SAXENA 👋
 
-### Web Develpoer
+### Web Developer 
+<h3>IIT BHUBNESHWAR</h3>
 ![linkediniitbbs](https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362) <!-- Add your image URL here -->
  <!-- Add an image here if you'd like -->
 
