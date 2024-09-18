@@ -1,12 +1,13 @@
 # Hey! I am SHIVAM SAXENA 👋
 
 ### Web Develpoer
-
-![Header Image][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fugcounselor.com%2Flisting%2Fiit-bhubaneswar%2F&psig=AOvVaw2zduvjHNLpyCoOX-rp2bnk&ust=1726777804582000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiR0vCqzYgDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVqvkmlBHLWcrP9geGbt6KG_xaRONw8Yr1aw&s)) <!-- Add an image here if you'd like -->
+![Header Image](https://raw.githubusercontent.com/YourUsername/YourRepositoryName/main/header-image.jpg) <!-- Add your image URL here -->
+ <!-- Add an image here if you'd like -->
 
 ---
 
 ## About Me
+![linkediniitbbs](https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362)
 
 Hello! 👋 I’m a passionate and curious programmer who believes that continuous learning is the key to success. Over the years, I’ve developed a deep interest in solving complex problems, particularly in areas like competitive programming, web development, and emerging technologies like blockchain.
 
