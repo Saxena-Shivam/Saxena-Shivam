@@ -30,7 +30,7 @@ I believe in the power of coding to create innovative solutions and leave a posi
 <!-- [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@yourprofile)-->
 [![Codeforces](https://img.shields.io/badge/Codeforces-%235A5A5A.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shivamsaxena562006)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/shivamsaxena56)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivamsaxena56)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivamsaxenni1)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shivamsaxena56)
 
 ---
