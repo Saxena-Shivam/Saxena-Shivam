@@ -2,7 +2,7 @@
 
 ### Web Develpoer
 
-![Header Image]([https://link-to-your-header-image.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fugcounselor.com%2Flisting%2Fiit-bhubaneswar%2F&psig=AOvVaw2zduvjHNLpyCoOX-rp2bnk&ust=1726777804582000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiR0vCqzYgDFQAAAAAdAAAAABAE)) <!-- Add an image here if you'd like -->
+![Header Image]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fugcounselor.com%2Flisting%2Fiit-bhubaneswar%2F&psig=AOvVaw2zduvjHNLpyCoOX-rp2bnk&ust=1726777804582000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiR0vCqzYgDFQAAAAAdAAAAABAE)) <!-- Add an image here if you'd like -->
 
 ## About Me
 
@@ -62,7 +62,7 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Saxena-Shivam=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&theme=dark)
 
 ---
 
