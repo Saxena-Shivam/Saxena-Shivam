@@ -10,7 +10,7 @@
   
 ## About Me
 
-Hello! 👋 I’m a passionate and curious programmer who believes that continuous learning is the key to success. Over the years, I’ve developed a deep interest in solving complex problems, particularly in areas like competitive programming, web development, and emerging technologies like blockchain.
+Hello! 👋 I’m a passionate and curious programmer who believes that continuous learning is the key to success. Over the time, I’ve developed a deep interest in solving complex problems, particularly in areas like competitive programming, web development, and emerging technologies like blockchain.
 
 I enjoy turning ideas into real-world projects, whether that’s building sleek and functional web applications or finding optimal solutions to intricate coding challenges. My focus is on writing clean, efficient code while constantly expanding my knowledge of new technologies and best practices.
 
