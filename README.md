@@ -1,7 +1,7 @@
 # Hey! I am SHIVAM SAXENA 👋
 
 ### 🌐 Web Developer | Member of Webnd at IIT Bhubaneswar 
-
+    💻 Competative programming | Member of Neuromancer at IIT Bhubneshwar
 <img src="https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362" alt="IIT Bhubaneswar" width="100%">
 
 ---
