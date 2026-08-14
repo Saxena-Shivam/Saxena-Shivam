@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C853&height=220&section=header&text=Hey,%20I'm%20Shivam%20Saxena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=18)
+![Header](https://raw.githubusercontent.com/Saxena-Shivam/Saxena-Shivam/main/header.svg)
 
 <div align="center">
 
@@ -165,4 +165,4 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0077B5&height=120&section=footer)
+![Footer](https://raw.githubusercontent.com/Saxena-Shivam/Saxena-Shivam/main/footer.svg)
