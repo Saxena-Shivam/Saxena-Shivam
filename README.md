@@ -1,20 +1,25 @@
-# Hey! I am SHIVAM SAXENA 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C853&height=220&section=header&text=Hey,%20I'm%20Shivam%20Saxena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=18)
 
-### 🌐 Web Developer | Member of Webnd at IIT Bhubaneswar
+<div align="center">
 
-### 💻 Competative programming | Member of Neuromancer at IIT Bhubneshwar
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+AI+Developer;Governor+%40+Neuromancers%2C+IIT+Bhubaneswar;Building+with+React%2C+Node.js+%26+LangChain;Competitive+Programmer+%7C+Knight+on+LeetCode)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Saxena-Shivam&color=0077B5&style=flat&label=Profile+Views)](https://github.com/Saxena-Shivam)
+![GitHub followers](https://img.shields.io/github/followers/Saxena-Shivam?label=Followers&style=flat&color=0077B5)
+
+</div>
 
 <img src="https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362" alt="IIT Bhubaneswar" width="100%">
 
 ---
 
 <div style="background-color:#f0f0f0; padding:15px;">
-  
+
 ## About Me
 
-Hello! 👋 I’m a passionate and curious programmer who believes that continuous learning is the key to success. Over the time, I’ve developed a deep interest in solving complex problems, particularly in areas like competitive programming, web development, and emerging technologies like blockchain.
+I'm a full-stack and AI-focused software engineer, currently pursuing a B.Tech in Electrical Engineering at **IIT Bhubaneswar**. I build production-grade web platforms and AI-powered systems — from adaptive learning platforms with LLM-driven pipelines to full-stack applications with real-time automation.
 
-I enjoy turning ideas into real-world projects, whether that’s building sleek and functional web applications or finding optimal solutions to intricate coding challenges. My focus is on writing clean, efficient code while constantly expanding my knowledge of new technologies and best practices.
+I've freelanced building an AI-powered personalized learning platform end-to-end, led competitive programming initiatives as Governor of Neuromancers, and shipped multiple full-stack projects using the MERN stack, Next.js, and LangChain-based AI pipelines. I care about clean architecture, scalable schema design, and turning ambiguous requirements into working software.
 
 </div>
 
@@ -22,14 +27,43 @@ I enjoy turning ideas into real-world projects, whether that’s building sleek 
 
 <div style="background-color:#e6f7ff; padding:15px;">
 
+## 💼 Experience
+
+**AcadSync — Freelance Developer** · _Aug 2025 – Sep 2025_
+Tech: React.js, Node.js, TypeScript, MongoDB, LangChain, Hugging Face, OpenAI API, Python
+
+- Built an AI-powered personalized learning platform with adaptive assessments using EMA-based proficiency analysis and dynamic difficulty-balanced question generation across 3+ levels.
+- Implemented an AI-assisted question generation pipeline (LangChain + LLMs) backed by a 2000+ question MongoDB bank, with AI fallback generation, textbook-context retrieval, and CSV export.
+- Designed an intelligent study planner generating personalized day-wise schedules across 10+ subjects based on topic weightage, difficulty, and proficiency.
+- Built a course management platform with 12+ MongoDB schemas covering departments, grades, subjects, sections, syllabus, and exams.
+- Shipped role-based dashboards for 4 user roles (Admin, Teacher, Student, Parent) with secure auth, bulk CSV/Excel uploads, automated reports, and real-time results.
+
 ## 🚀 My Development Journey
 
-- 📚 I started with **C** and **C++**, and soon realized my love for algorithms and data structures.
-- 🌐 Web development became my next big passion, where I dove into **JavaScript**, backend technologies like **Node.js**, and creating responsive, user-friendly websites using frameworks like **Bootstrap** and **Express.js**.
-- 🚀 More recently, I've been exploring the world of **blockchain** and how decentralization can reshape industries.
-- 🤝 I'm a big fan of **open-source collaboration** and frequently contribute to projects on GitHub.
+- 📚 Started with **C** and **C++**, and found a lasting love for algorithms and data structures.
+- 🌐 Moved into full-stack web development — **JavaScript/TypeScript**, **Node.js**, **Express.js**, **Next.js**, and **React.js** — building scalable, production-ready applications.
+- 🤖 Now building **AI-integrated products**, working with **LangChain**, the **OpenAI API**, and applied ML (regression, classification, feature engineering).
+- 🤝 Active in **open-source** and community leadership — currently Governor of Neuromancers, IIT Bhubaneswar's competitive programming society.
 
-I believe in the power of coding to create innovative solutions and leave a positive impact on the world. Whether it's through competitive programming, personal projects, or team collaboration, I’m always looking for new challenges to push my limits.
+</div>
+
+---
+
+## 🛠 Featured Projects
+
+<div style="background-color:#fff7e6; padding:15px;">
+
+**[UniCom Project](#)**
+`React.js` `Node.js` `Express.js` `MongoDB` `Node-cron` `Nodemailer`
+Full-stack web application with authentication, REST APIs, and real-time status tracking. Automated reminder workflows via Node-cron + Nodemailer, cutting pending request delays by ~30%. Optimized MongoDB schema design and query execution for scalability.
+
+**[Neuromancers Official Website](#)**
+`Next.js` `TypeScript` `Tailwind CSS`
+Official society website showcasing team, projects, events, and achievements — responsive, theme-aware, SEO- and performance-optimized with Next.js.
+
+**Social Media Platform**
+`C++` `STL` `OOP` `File Handling`
+Modular C++ console social media platform: auth (sign up/log in/forgot password), posts, likes, comments, stories, follow/unfollow, personalized feed, trending posts, messaging, and notifications — with persistent multi-file storage (users/posts/stories/messages) using STL and file handling.
 
 </div>
 
@@ -51,11 +85,11 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 ## 📈 Competitive Programming Achievements
 
-| Platform       | Rating      |
-| -------------- | ----------- |
-| **LeetCode**   | 1535        |
-| **CodeChef**   | ⭐⭐ (1477) |
-| **Codeforces** | 970         |
+| Platform       | Rank / Title    | Max Rating |
+| -------------- | --------------- | ---------- |
+| **LeetCode**   | Knight          | 2047       |
+| **CodeChef**   | ⭐⭐⭐ (3-Star) | 1691       |
+| **Codeforces** | Pupil           | 1346       |
 
 </div>
 
@@ -63,25 +97,56 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 ## 💻 Technical Skills
 
-### 🖥 Programming Languages:
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 
-### 🌐 Web Development:
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-%230A74DA.svg?style=flat&logo=ajax)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black.svg?style=flat&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
-### 🛠 Version Control:
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+
+### AI / ML
+
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-yellow)
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,firebase,git,github,vscode,postman&perline=10" alt="Skill Icons" />
+</a>
+
+_(hover-scale icon grid — click any icon to explore)_
+
+</div>
 
 ---
 
@@ -90,7 +155,7 @@ I believe in the power of coding to create innovative solutions and leave a posi
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&hide_border=true&theme=tokyonight)
 
@@ -104,8 +169,52 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 ---
 
-## 🏆 Achievements
+## 🏅 GitHub Trophies
 
-- Member of Webnd, **IIT Bhubaneswar**
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Saxena-Shivam&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7)
+
+</div>
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saxena-Shivam/Saxena-Shivam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saxena-Shivam/Saxena-Shivam/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/Saxena-Shivam/Saxena-Shivam/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> ⚙️ This animated snake needs a one-time GitHub Action set up in this repo (instructions below) — it regenerates daily from your real contribution graph.
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Freelancing Experience Certificate
+- 🥇 Winner — Webthon, General Championship 2025, IIT Bhubaneswar
+- ♞ Knight on LeetCode (Max Rating: 2047)
+- ⭐ 3-Star on CodeChef (Max Rating: 1691)
+- 📘 Pupil on Codeforces (Max Rating: 1346)
+
+## 🧭 Positions of Responsibility
+
+- **Governor**, Neuromancers (Programming Society), IIT Bhubaneswar — _June 2026 – Present_
+- **Member**, Web and Design Society, IIT Bhubaneswar — _Sep 2024 – Present_
+- **Organizing Committee Member**, Code Relay 3.0, IIT Bhubaneswar — _Nov 2024 – Feb 2025_
+
+---
+
+<div align="center">
+
+📫 Reach me at **shivamsaxena562006@gmail.com** | 📱 +91-9507250528
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0077B5&height=120&section=footer)
