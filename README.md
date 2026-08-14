@@ -1,11 +1,8 @@
-![Header](https://raw.githubusercontent.com/Saxena-Shivam/Saxena-Shivam/main/header.svg)
+<!-- ![Header](https://raw.githubusercontent.com/Saxena-Shivam/Saxena-Shivam/main/header.svg) -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Developer;Governor+%40+Neuromancers%2C+IIT+Bhubaneswar;Building+with+React%2C+Node.js+%26+LangChain;Competitive+Programmer+%7C+Knight+on+LeetCode)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Saxena-Shivam&color=0077B5&style=flat&label=Profile+Views)](https://github.com/Saxena-Shivam)
-![GitHub followers](https://img.shields.io/github/followers/Saxena-Shivam?label=Followers&style=flat&color=0077B5)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;+Building+with+React%2C+Node.js+%26+LangChain;Competitive+Programmer+%7C+Knight+on+LeetCode)](https://git.io/typing-svg)
 
 </div>
 
@@ -106,10 +103,13 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 ## 📊 GitHub Stats
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Saxena-Shivam&color=0077B5&style=flat&label=Profile+Views)](https://github.com/Saxena-Shivam)
+![GitHub followers](https://img.shields.io/github/followers/Saxena-Shivam?label=Followers&style=flat&color=0077B5)
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&hide_border=true&theme=tokyonight)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&hide_border=true&theme=tokyonight) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Saxena-Shivam&theme=tokyonight&hide_border=true)
 
@@ -119,7 +119,7 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 </div>
 
----
+<!-- ---
 
 ## 🏅 GitHub Trophies
 
@@ -129,7 +129,7 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 </div>
 
----
+--- -->
 
 ## 🐍 Contribution Snake
 
