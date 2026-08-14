@@ -23,52 +23,6 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 </div>
 
----
-
-<div style="background-color:#e6f7ff; padding:15px;">
-
-## 💼 Experience
-
-**AcadSync — Freelance Developer** · _Aug 2025 – Sep 2025_
-Tech: React.js, Node.js, TypeScript, MongoDB, LangChain, Hugging Face, OpenAI API, Python
-
-- Built an AI-powered personalized learning platform with adaptive assessments using EMA-based proficiency analysis and dynamic difficulty-balanced question generation across 3+ levels.
-- Implemented an AI-assisted question generation pipeline (LangChain + LLMs) backed by a 2000+ question MongoDB bank, with AI fallback generation, textbook-context retrieval, and CSV export.
-- Designed an intelligent study planner generating personalized day-wise schedules across 10+ subjects based on topic weightage, difficulty, and proficiency.
-- Built a course management platform with 12+ MongoDB schemas covering departments, grades, subjects, sections, syllabus, and exams.
-- Shipped role-based dashboards for 4 user roles (Admin, Teacher, Student, Parent) with secure auth, bulk CSV/Excel uploads, automated reports, and real-time results.
-
-## 🚀 My Development Journey
-
-- 📚 Started with **C** and **C++**, and found a lasting love for algorithms and data structures.
-- 🌐 Moved into full-stack web development — **JavaScript/TypeScript**, **Node.js**, **Express.js**, **Next.js**, and **React.js** — building scalable, production-ready applications.
-- 🤖 Now building **AI-integrated products**, working with **LangChain**, the **OpenAI API**, and applied ML (regression, classification, feature engineering).
-- 🤝 Active in **open-source** and community leadership — currently Governor of Neuromancers, IIT Bhubaneswar's competitive programming society.
-
-</div>
-
----
-
-## 🛠 Featured Projects
-
-<div style="background-color:#fff7e6; padding:15px;">
-
-**[UniCom Project](#)**
-`React.js` `Node.js` `Express.js` `MongoDB` `Node-cron` `Nodemailer`
-Full-stack web application with authentication, REST APIs, and real-time status tracking. Automated reminder workflows via Node-cron + Nodemailer, cutting pending request delays by ~30%. Optimized MongoDB schema design and query execution for scalability.
-
-**[Neuromancers Official Website](#)**
-`Next.js` `TypeScript` `Tailwind CSS`
-Official society website showcasing team, projects, events, and achievements — responsive, theme-aware, SEO- and performance-optimized with Next.js.
-
-**Social Media Platform**
-`C++` `STL` `OOP` `File Handling`
-Modular C++ console social media platform: auth (sign up/log in/forgot password), posts, likes, comments, stories, follow/unfollow, personalized feed, trending posts, messaging, and notifications — with persistent multi-file storage (users/posts/stories/messages) using STL and file handling.
-
-</div>
-
----
-
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_the_shivam_)
@@ -141,10 +95,8 @@ Modular C++ console social media platform: auth (sign up/log in/forgot password)
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,firebase,git,github,vscode,postman&perline=10" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,firebase,git,github,vscode,postman&perline=10" alt="Skill Icons" />
 </a>
-
-_(hover-scale icon grid — click any icon to explore)_
 
 </div>
 
@@ -191,14 +143,10 @@ _(hover-scale icon grid — click any icon to explore)_
 
 </div>
 
-> ⚙️ This animated snake needs a one-time GitHub Action set up in this repo (instructions below) — it regenerates daily from your real contribution graph.
-
 ---
 
 ## 🏆 Achievements
 
-- 🎓 Freelancing Experience Certificate
-- 🥇 Winner — Webthon, General Championship 2025, IIT Bhubaneswar
 - ♞ Knight on LeetCode (Max Rating: 2047)
 - ⭐ 3-Star on CodeChef (Max Rating: 1691)
 - 📘 Pupil on Codeforces (Max Rating: 1346)
