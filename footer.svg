@@ -1,0 +1,39 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0077B5"/>
+      <stop offset="100%" stop-color="#00C853"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <g fill="#ffffff" opacity="0.15">
+    <path d="M0,150 C150,190 300,110 450,150 C600,190 750,110 900,150 L900,200 L0,200 Z">
+      <animate attributeName="d" dur="4s" repeatCount="indefinite"
+        values="
+          M0,150 C150,190 300,110 450,150 C600,190 750,110 900,150 L900,200 L0,200 Z;
+          M0,150 C150,110 300,190 450,150 C600,110 750,190 900,150 L900,200 L0,200 Z;
+          M0,150 C150,190 300,110 450,150 C600,190 750,110 900,150 L900,200 L0,200 Z"/>
+    </path>
+    <path d="M0,170 C150,200 300,140 450,170 C600,200 750,140 900,170 L900,200 L0,200 Z">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+          M0,170 C150,200 300,140 450,170 C600,200 750,140 900,170 L900,200 L0,200 Z;
+          M0,170 C150,140 300,200 450,170 C600,140 750,200 900,170 L900,200 L0,200 Z;
+          M0,170 C150,200 300,140 450,170 C600,200 750,140 900,170 L900,200 L0,200 Z"/>
+    </path>
+  </g>
+
+  <text x="450" y="95" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+        font-size="42" font-weight="700" fill="#ffffff">
+    Shivam Saxena
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <text x="450" y="130" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+        font-size="18" fill="#eaf6ff">
+    Thanks for visiting! &#128075;
+    <animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
+  </text>
+</svg>

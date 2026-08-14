@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+AI+Developer;Governor+%40+Neuromancers%2C+IIT+Bhubaneswar;Building+with+React%2C+Node.js+%26+LangChain;Competitive+Programmer+%7C+Knight+on+LeetCode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Developer;Governor+%40+Neuromancers%2C+IIT+Bhubaneswar;Building+with+React%2C+Node.js+%26+LangChain;Competitive+Programmer+%7C+Knight+on+LeetCode)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Saxena-Shivam&color=0077B5&style=flat&label=Profile+Views)](https://github.com/Saxena-Shivam)
 ![GitHub followers](https://img.shields.io/github/followers/Saxena-Shivam?label=Followers&style=flat&color=0077B5)
