@@ -1,89 +1,111 @@
-# Shivam Saxena
+# Hey! I am SHIVAM SAXENA 👋
 
-<p align="center">
-	<a href="https://github.com/Saxena-Shivam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Full-Stack+Developer;C%2B%2B+%7C+React+%7C+Node.js+%7C+TypeScript+%7C+Python;Building+scalable+products+for+real-world+use" alt="Typing Intro"></a>
-</p>
+### 🌐 Web Developer | Member of Webnd at IIT Bhubaneswar
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/shivam-saxena-aa8754289"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
-	<a href="mailto:24ee01074@iitbbs.ac.in"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="https://github.com/Saxena-Shivam"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"></a>
-</p>
+### 💻 Competative programming | Member of Neuromancer at IIT Bhubneshwar
 
+<img src="https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362" alt="IIT Bhubaneswar" width="100%">
+
+---
+
+<div style="background-color:#f0f0f0; padding:15px;">
+  
 ## About Me
 
-- Software engineer focused on full-stack product development, backend systems, and AI-enabled workflows.
-- B.Tech in Electrical Engineering at IIT Bhubaneswar (CGPA: 8.62).
-- Strong coding and problem-solving background with hands-on experience shipping web and application projects.
-- Open to software engineering internships and impactful collaboration opportunities.
+Hello! 👋 I’m a passionate and curious programmer who believes that continuous learning is the key to success. Over the time, I’ve developed a deep interest in solving complex problems, particularly in areas like competitive programming, web development, and emerging technologies like blockchain.
 
-## Core Skills
+I enjoy turning ideas into real-world projects, whether that’s building sleek and functional web applications or finding optimal solutions to intricate coding challenges. My focus is on writing clean, efficient code while constantly expanding my knowledge of new technologies and best practices.
 
-### Languages and Fundamentals
+</div>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-### Full-Stack and Backend
+<div style="background-color:#e6f7ff; padding:15px;">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+## 🚀 My Development Journey
 
-### Databases and Tools
+- 📚 I started with **C** and **C++**, and soon realized my love for algorithms and data structures.
+- 🌐 Web development became my next big passion, where I dove into **JavaScript**, backend technologies like **Node.js**, and creating responsive, user-friendly websites using frameworks like **Bootstrap** and **Express.js**.
+- 🚀 More recently, I've been exploring the world of **blockchain** and how decentralization can reshape industries.
+- 🤝 I'm a big fan of **open-source collaboration** and frequently contribute to projects on GitHub.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+I believe in the power of coding to create innovative solutions and leave a positive impact on the world. Whether it's through competitive programming, personal projects, or team collaboration, I’m always looking for new challenges to push my limits.
 
-### AI and Product Engineering
+</div>
 
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
+---
 
-## Featured Projects
+## 🌐 Socials
 
-| Project                         | What I Built                                                                                                 | Stack                                                            |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| AcadSync                        | Adaptive study planner and AI-based question generation with student/teacher/admin flows                     | TypeScript, Node.js, MongoDB, Python, Vite, Tailwind, OpenAI API |
-| Request Management System       | Role-based full-stack app with real-time request lifecycle and reminder automation                           | React, Node.js, Express, MongoDB, Socket.IO, JWT, Nodemailer     |
-| Social Media Platform           | Modular C++ console app with authentication, feed, stories, messaging, notifications, and persistent storage | C++, STL, OOP, File Handling                                     |
-| Interactive Window OS Portfolio | Browser-based desktop-like interface with draggable app windows and responsive interactions                  | React, JavaScript, Tailwind, Framer Motion                       |
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_the_shivam_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-saxena-aa8754289)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shivam562006)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%235A5A5A.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shivamsaxena562006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/shivamsaxena56)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivamsaxenni1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/s_raja)
 
-## Achievements and Leadership
+---
 
-- Winner, Webthon (General Championship 2025).
-- Participant, PitchTember 2024 and Byteverse Hackathon.
-- Member, Web and Design Society, IIT Bhubaneswar.
-- Member, Neuromancers, IIT Bhubaneswar.
-- Organizing Committee, Code Relay 3.0, IIT Bhubaneswar.
+<div style="background-color:#f2f2f2; padding:15px;">
 
-## Coding Profiles
+## 📈 Competitive Programming Achievements
 
-<p>
-	<a href="https://leetcode.com/shivamsaxena56"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
-	<a href="https://codeforces.com/profile/shivamsaxena562006"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white"></a>
-	<a href="https://www.codechef.com/users/shivamsaxena56"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat&logo=codechef&logoColor=white"></a>
-	<a href="https://auth.geeksforgeeks.org/user/shivamsaxenni1"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"></a>
-</p>
+| Platform       | Rating      |
+| -------------- | ----------- |
+| **LeetCode**   | 1535        |
+| **CodeChef**   | ⭐⭐ (1477) |
+| **Codeforces** | 970         |
 
-## GitHub Analytics
+</div>
 
-<p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&theme=default" alt="Top Languages" />
-</p>
+---
 
-<p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saxena-Shivam&theme=github-light&hide_border=true" alt="Activity Graph" />
-</p>
+## 💻 Technical Skills
+
+### 🖥 Programming Languages:
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+
+### 🌐 Web Development:
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-%230A74DA.svg?style=flat&logo=ajax)
+
+### 🛠 Version Control:
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+
+---
+
+<div style="background-color:#e6e6ff; padding:15px;">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Saxena-Shivam&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saxena-Shivam&theme=tokyo-night&hide_border=true)
+
+</div>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- Member of Webnd, **IIT Bhubaneswar**
+
+---
