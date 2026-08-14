@@ -1,12 +1,19 @@
-<!-- ![Header](https://raw.githubusercontent.com/Saxena-Shivam/Saxena-Shivam/main/header.svg) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header">
 
+  <br>
+
+  <a href="https://github.com/Saxena-Shivam">
+    <img src="https://komarev.com/ghpvc/?username=Saxena-Shivam&color=0077B5&style=flat&label=Profile+Views" alt="Profile Views">
+  </a>
+</div>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;+Building+with+React%2C+Node.js+%26+LangChain;Competitive+Programmer+%7C+Knight+on+LeetCode)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362" alt="IIT Bhubaneswar" width="100%">
+<!-- <img src="https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362" alt="IIT Bhubaneswar" width="100%"> -->
 
 ---
 
@@ -103,8 +110,8 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 ## 📊 GitHub Stats
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Saxena-Shivam&color=0077B5&style=flat&label=Profile+Views)](https://github.com/Saxena-Shivam)
-![GitHub followers](https://img.shields.io/github/followers/Saxena-Shivam?label=Followers&style=flat&color=0077B5)
+<!--
+![GitHub followers](https://img.shields.io/github/followers/Saxena-Shivam?label=Followers&style=flat&color=0077B5) -->
 
 <div align="center">
 
