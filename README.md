@@ -168,7 +168,7 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 <div align="center">
 
-📫 Reach me at **shivamsaxena562006@gmail.com** | 📱 +91-9507250528
+📫 Reach me at **shivamsaxena562006@gmail.com**
 
 </div>
 
