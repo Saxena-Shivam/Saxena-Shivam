@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header" width="100%">
 
   <br>
 
@@ -7,27 +7,26 @@
     <img src="https://komarev.com/ghpvc/?username=Saxena-Shivam&color=0077B5&style=flat&label=Profile+Views" alt="Profile Views">
   </a>
 </div>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;+Building+with+React%2C+Node.js+%26+LangChain;Competitive+Programmer+%7C+Knight+on+LeetCode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;⚡+Building+with+React%2C+Node.js+%26+LangChain;🏆+Competitive+Programmer+%7C+Knight+on+LeetCode;🤖+AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
-<!-- <img src="https://github.com/user-attachments/assets/5742c9df-229f-4f53-9779-a3e37d8d2362" alt="IIT Bhubaneswar" width="100%"> -->
-
 ---
 
-<div style="background-color:#f0f0f0; padding:15px;">
-
-## About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> About Me
 
 I'm a full-stack and AI-focused software engineer, currently pursuing a B.Tech in Electrical Engineering at **IIT Bhubaneswar**. I build production-grade web platforms and AI-powered systems — from adaptive learning platforms with LLM-driven pipelines to full-stack applications with real-time automation.
 
 I've freelanced building an AI-powered personalized learning platform end-to-end, led competitive programming initiatives as Governor of Neuromancers, and shipped multiple full-stack projects using the MERN stack, Next.js, and LangChain-based AI pipelines. I care about clean architecture, scalable schema design, and turning ambiguous requirements into working software.
 
-</div>
+---
 
-## 🌐 Socials
+## 🌐 Connect With Me
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivam862006/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-saxena-aa8754289)
@@ -38,17 +37,19 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/s_raja)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-new-seven-henna.vercel.app/)
 
----
+</div>
 
-<div style="background-color:#f2f2f2; padding:15px;">
+---
 
 ## 📈 Competitive Programming Achievements
 
-| Platform       | Rank / Title    | Max Rating |
-| -------------- | --------------- | ---------- |
-| **LeetCode**   | Knight          | 2047       |
-| **CodeChef**   | ⭐⭐⭐ (3-Star) | 1691       |
-| **Codeforces** | Pupil           | 1346       |
+<div align="center">
+
+| Platform | Rank / Title | Max Rating | Badge |
+|----------|--------------|------------|-------|
+| **LeetCode** | 👑 Knight | 2047 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/saxena_106/) |
+| **CodeChef** | ⭐⭐⭐ 3-Star | 1691 | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/s_raja) |
+| **Codeforces** | 🎯 Pupil | 1346 | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivamsaxena562006) |
 
 </div>
 
@@ -56,102 +57,99 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 ## 💻 Technical Skills
 
-## 💻 Languages
+### 💻 Languages
 
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🌐 Web Development
+### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black.svg?style=flat&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=flat&logo=react-router&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=flat&logo=axios&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=flat)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-![Node Cron](https://img.shields.io/badge/Node--Cron-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black.svg?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Node Cron](https://img.shields.io/badge/Node--Cron-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🗄️ Backend & Databases
+### 🗄️ Backend & Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
-## 🔐 Authentication & Validation
+### 🔐 Authentication & Validation
 
-![JWT](https://img.shields.io/badge/JWT-black.svg?style=flat&logo=jsonwebtokens&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-black.svg?style=flat&logo=next.js&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-%234285F4.svg?style=flat&logo=google&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-%233E67B1.svg?style=flat&logo=zod&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-%23000000.svg?style=flat)
+![JWT](https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-%23000000.svg?style=for-the-badge)
 
-## 📧 Communication & Payments
+### 📧 Communication & Payments
 
-![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=flat&logo=resend&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-%23000000.svg?style=flat)
-![Razorpay](https://img.shields.io/badge/Razorpay-%23072BFF.svg?style=flat&logo=razorpay&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=for-the-badge&logo=resend&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-%23000000.svg?style=for-the-badge)
+![Razorpay](https://img.shields.io/badge/Razorpay-%23072BFF.svg?style=for-the-badge&logo=razorpay&logoColor=white)
 
-## 🤖 AI / ML / GenAI
+### 🤖 AI / ML / GenAI
 
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-yellow.svg?style=flat)
-![RAG](https://img.shields.io/badge/RAG-%23412991.svg?style=flat)
-![Regression](https://img.shields.io/badge/Regression-%234285F4.svg?style=flat)
-![Classification](https://img.shields.io/badge/Classification-%23FF6F00.svg?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-yellow.svg?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## ☁️ Cloud & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=flat&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=flat&logo=amazon-s3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
-![AWS ECS](https://img.shields.io/badge/AWS_ECS-%23FF9900.svg?style=flat&logo=amazon-ecs&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23181717.svg?style=flat&logo=github&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat&logo=cloudinary&logoColor=white)
+### ☁️ Cloud & Deployment
 
-## 🛠️ Tools & Development
+![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-ecs&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
-![Git Bash](https://img.shields.io/badge/Git_Bash-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=flat&logo=nodemon&logoColor=white)
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+### 🛠️ Tools & Development
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,firebase,git,github,vscode,postman&perline=10" alt="Skill Icons" />
-</a>
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=for-the-badge&logo=nodemon&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+<!--### 🎯 All Skills (Big & Bold)
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,firebase,git,github,vscode,postman&perline=11" alt="Skill Icons" />
+  </a>
 </div>
 
----
-
-<div style="background-color:#e6e6ff; padding:15px;">
+-->
 
 ## 📊 GitHub Stats
 
