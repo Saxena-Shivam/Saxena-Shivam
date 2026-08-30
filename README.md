@@ -84,13 +84,11 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Node Cron](https://img.shields.io/badge/Node--Cron-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Backend & Databases
+### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ### 🔐 Authentication & Validation
 
