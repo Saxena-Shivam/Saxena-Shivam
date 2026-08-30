@@ -89,7 +89,6 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=flat&logo=sequelize&logoColor=white)
 
 ## 🔐 Authentication & Validation
 
@@ -111,7 +110,6 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-yellow.svg?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-%23412991.svg?style=flat)
-![LLaMA](https://img.shields.io/badge/LLaMA-%23000000.svg?style=flat)
 ![Regression](https://img.shields.io/badge/Regression-%234285F4.svg?style=flat)
 ![Classification](https://img.shields.io/badge/Classification-%23FF6F00.svg?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
