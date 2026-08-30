@@ -60,7 +60,6 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
@@ -78,10 +77,11 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=flat&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=flat&logo=reactquery&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=flat&logo=axios&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=flat)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
+![Node Cron](https://img.shields.io/badge/Node--Cron-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 ## 🗄️ Backend & Databases
 
@@ -90,8 +90,6 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=flat&logo=sequelize&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-![Node Cron](https://img.shields.io/badge/Node--Cron-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 ## 🔐 Authentication & Validation
 
@@ -112,8 +110,11 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-yellow.svg?style=flat)
-![LLaMA](https://img.shields.io/badge/LLaMA-%23000000.svg?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-%23412991.svg?style=flat)
+![LLaMA](https://img.shields.io/badge/LLaMA-%23000000.svg?style=flat)
+![Regression](https://img.shields.io/badge/Regression-%234285F4.svg?style=flat)
+![Classification](https://img.shields.io/badge/Classification-%23FF6F00.svg?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
@@ -121,17 +122,17 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
 ## ☁️ Cloud & Deployment
-
+![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=flat&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=flat&logo=amazon-s3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
 ![AWS ECS](https://img.shields.io/badge/AWS_ECS-%23FF9900.svg?style=flat&logo=amazon-ecs&logoColor=black)
-![AWS CodeBuild](https://img.shields.io/badge/AWS_CodeBuild-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat&logo=cloudinary&logoColor=white)
 
 ## 🛠️ Tools & Development
 
