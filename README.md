@@ -57,7 +57,7 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 ## 💻 Technical Skills
 
-### 💻 Languages
+### 🧩 Languages
 
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
