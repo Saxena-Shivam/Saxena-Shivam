@@ -56,11 +56,42 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 ## 💻 Technical Skills
 
-### Programming Languages
+## 💻 Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black.svg?style=flat&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=flat&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=flat&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=flat&logo=axios&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+
+## 🗄️ Backend & Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=flat&logo=sequelize&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
+![Node Cron](https://img.shields.io/badge/Node--Cron-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 ## 🔐 Authentication & Validation
 
@@ -69,7 +100,49 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-%234285F4.svg?style=flat&logo=google&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-%233E67B1.svg?style=flat&logo=zod&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-%23000000.svg?style=flat)
-<div align="center">
+
+## 📧 Communication & Payments
+
+![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=flat&logo=resend&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-%23000000.svg?style=flat)
+![Razorpay](https://img.shields.io/badge/Razorpay-%23072BFF.svg?style=flat&logo=razorpay&logoColor=white)
+
+## 🤖 AI / ML / GenAI
+
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-yellow.svg?style=flat)
+![LLaMA](https://img.shields.io/badge/LLaMA-%23000000.svg?style=flat)
+![RAG](https://img.shields.io/badge/RAG-%23412991.svg?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+
+## ☁️ Cloud & Deployment
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=flat&logo=amazon-s3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-%23FF9900.svg?style=flat&logo=amazon-ecs&logoColor=black)
+![AWS CodeBuild](https://img.shields.io/badge/AWS_CodeBuild-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
+
+## 🛠️ Tools & Development
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=flat&logo=nodemon&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,firebase,git,github,vscode,postman&perline=10" alt="Skill Icons" />
