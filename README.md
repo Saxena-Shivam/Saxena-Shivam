@@ -67,7 +67,6 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Node Cron](https://img.shields.io/badge/Node--Cron-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Databases
