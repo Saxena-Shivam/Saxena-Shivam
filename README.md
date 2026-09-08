@@ -41,20 +41,6 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 ---
 
-## 📈 Competitive Programming Achievements
-
-<div align="center">
-
-| Platform | Rank / Title | Max Rating | Badge |
-|----------|--------------|------------|-------|
-| **LeetCode** | 👑 Knight | 2047 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/saxena_106/) |
-| **CodeChef** | ⭐⭐⭐ 3-Star | 1691 | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/s_raja) |
-| **Codeforces** | 🎯 Pupil | 1346 | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivamsaxena562006) |
-
-</div>
-
----
-
 ## 💻 Technical Skills
 
 ### 🧩 Languages
