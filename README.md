@@ -146,7 +146,9 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Saxena-Shivam&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saxena-Shivam&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&theme=dark&show_icons=true&count_private=true)
+
+![Language Used](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Saxena-Shivam&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
 
 </div>
 
@@ -188,7 +190,6 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 - **Governor**, Neuromancers (Programming Society), IIT Bhubaneswar — _June 2026 – Present_
 - **Member**, Web and Design Society, IIT Bhubaneswar — _Sep 2024 – Present_
-- **Organizing Committee Member**, Code Relay 3.0, IIT Bhubaneswar — _Nov 2024 – Feb 2025_
 
 ---
 
