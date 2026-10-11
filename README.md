@@ -141,16 +141,21 @@ I've freelanced building an AI-powered personalized learning platform end-to-end
 
 <div align="center">
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&hide_border=true&theme=tokyonight) -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Saxena-Shivam&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&theme=dark&show_icons=true&count_private=true)
-
-![Language Used](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Saxena-Shivam&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
-
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=Saxena-Shivam&theme=tokyonight&hide_border=true" />
+</td>
+<td rowspan="2">
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Saxena-Shivam&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" />
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+</td>
+</tr>
+</table>
 
 </div>
 
